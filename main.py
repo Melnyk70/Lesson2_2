@@ -11,3 +11,4 @@ print(number % 1000 // 100)  # 2 цифра
 print(number % 100 // 10)  # 3 цифра
 print(number % 10)  # 4 цифра
 #https://github.com/Melnyk70/Lesson2_2.git
+#hhhh
